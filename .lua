@@ -1,4 +1,4 @@
-local function Coins()
+local function Coins() --6468333012
   game:GetService("ReplicatedStorage")["Events"]["CoinPickup"]:FireServer(49)
 end
 

@@ -13,5 +13,14 @@ _G.CoinsConf = value
 while wait() do
       if _G.CoinsConf == false then break end
         Coins()
+        Coins()
+        Coins()
+        Coins()
+        Coins()
+        Coins()
+        Coins()
+        Coins()
+        Coins()
+        Coins()
     end
 end)
